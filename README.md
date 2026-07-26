@@ -9,12 +9,12 @@ Repositorio del Español chileno de **Project Zomboid**. Este proyecto busca ada
 * **Progreso de traducción:** ~99% (Sólo queda Print_Text + analizar el código si hay incongruencias, demás) 
 * Build 42.19 unstable.
 
-## 🛠️ Trabajo hecho
+## Trabajo hecho
 * Traducción masiva de los menús de creación de personaje, inventario, habilidades, narrativa y moodles.
 * Adaptación de descripciones de objetos, libros y recetas utilizando modismos chilenos naturales y fluidos. Todo siguiendo el contexto del juego
 
-## 📂 Estructura del Repositorio
-Los archivos de traducción siguen el formato estándar de pares de claves (`key = value`) utilizados por el motor del juego para la localización:
+## Estructura
+Los archivos de traducción siguen el formato estándar de pares de claves y en formato JSON (`key = value`) utilizados por el juego para la localización:
 
 ```text
 /
