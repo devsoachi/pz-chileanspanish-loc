@@ -6,8 +6,8 @@ Repositorio del Español chileno de **Project Zomboid**. Este proyecto busca ada
 
 ## 📊 Estado del Proyecto
 * **Idioma:** Español (CL) - `CL`
-* **Progreso de traducción:** ~95-100% (Interfaz, menús, objetos y textos principales junto a CDs, VHS y Radio/TV).
-* **Compatibilidad:** Build 41 y Build 42.19 unstable.
+* **Progreso de traducción:** ~99% (Sólo queda Print_Text + analizar el código si hay incongruencias, demás) 
+* **Compatibilidad:** Build 42.19 unstable.
 
 ## 🛠️ ¿Qué incluye este mod?
 * Traducción masiva de los menús de creación de personaje, inventario, habilidades y moodles.
