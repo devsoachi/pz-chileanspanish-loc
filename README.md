@@ -18,6 +18,6 @@ Los archivos de traducción siguen el formato estándar de pares de claves y en 
 
 ```text
 /
-├── 📁 media/lua/shared/Translate/CL/    # Archivos de texto originales / adaptados
+├── 📁 media/lua/shared/Translate/CL/    # JSON adaptados
 ├── 📄 LICENSE                           # Licencia MIT
 └── 📖 README.md                         # Documentación del proyecto
