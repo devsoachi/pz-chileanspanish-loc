@@ -5,9 +5,9 @@ Localization for Project Zomboid in Chilean Spanish
 Repositorio del Español chileno de **Project Zomboid**. Este proyecto busca adaptar la experiencia del juego a la jerga, modismos y cultura de Chile, brindando una inmersión única para los jugadores de la comunidad nacional.
 
 ## Estado del Proyecto
-* **Idioma:** Español (CL) - `CL`
+* **Idioma:** Español (Chile)
 * **Progreso de traducción:** ~99% (Sólo queda Print_Text + analizar el código si hay incongruencias, demás) 
-* Build 42.19 unstable.
+* Build 42.20
 
 ## Trabajo hecho
 * Traducción masiva de los menús de creación de personaje, inventario, habilidades, narrativa y moodles.
