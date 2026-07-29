@@ -2246,7 +2246,7 @@
     "UI_mainscreen_credits_escape": "Presiona %1 para salir.",
     "UI_mainscreen_credits_escape_joypad": "Presiona <JOYPAD:AButton,28,28> para salir.",
     "UI_Pause": "Pausa",
-    "UI_Resume": "Continuar"
+    "UI_Resume": "Continuar",
     "UI_EpilepsyWarning": "<CENTRE> <SIZE:large> ADVERTENCIA DE FOTOSENSIBILIDAD - POR FAVOR LEER </SIZE> <LINE> <LINE> <SIZE:medium> Este juego contiene luces parpadeantes, efectos estroboscópicos, cambios visuales rápidos, y patrones que podrían gatillar episodios epilépticos u otras reacciones adversas a personas con epilepsia fotosensible - incluso aquellas sin historial previo. Si alguien en tu hogar tiene historial de epilepsia o convulsiones, por favor consulta un médico antes de jugar. <LINE> <LINE> Si sientes mareos, visión alterada, espasmos musculares, pérdida de conciencia, desorientación o similares, por favor deja de jugar y consulta con tu médico.",
     "UI_EpilepsyWarning_1": "ADVERTENCIA DE FOTOSENSIBILIDAD - POR FAVOR LEER",
     "UI_EpilepsyWarning_3": "Este juego contiene luces parpadeantes, efectos estroboscópicos, cambios visuales rápidos, y patrones que podrían",

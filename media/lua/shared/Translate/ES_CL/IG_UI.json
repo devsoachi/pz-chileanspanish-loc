@@ -6841,7 +6841,7 @@
     "IGUI_Key_RCONTROL": "Control Derecho",
     "IGUI_Key_LMETA": "Comando Izquierdo",
     "IGUI_Key_RMETA": "Comando Derecho",
-    "IGUI_Key_SPACE": "Espacio"
+    "IGUI_Key_SPACE": "Espacio",
 	"IGUI_FilterSearch": "Buscar...",
     "IGUI_CraftingCategories_Assembly": "Ensamblaje",
     "IGUI_CraftingCategories_Armor": "Armadura",
