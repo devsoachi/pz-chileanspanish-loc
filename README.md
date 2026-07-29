@@ -2,7 +2,7 @@
 Localization for Project Zomboid in Chilean Spanish
 # Project Zomboid - Traducción completa al Español Chileno
 
-Repositorio del Español chileno de **Project Zomboid**. Este proyecto busca cambiar 
+Repositorio del Español chileno alternativo de **Project Zomboid**. Este proyecto busca cambiar la localización oficial del español chileno.
 
 ## Estado del Proyecto
 * **Idioma:** Español (Chile)
