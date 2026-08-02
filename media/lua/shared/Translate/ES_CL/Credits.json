@@ -12,7 +12,7 @@
     "credits_role_group.music_by": "Banda sonora original compuesta por",
     "credits_role.music_originally_composed_by": "Composición musical original compuesta por",
 
-    "credits_role_group.programming_team": "Equipo de programación",
+    "credits_role_group.programming_team": "EQUIPO DE PROGRAMACIÓN",
     "credits_role.lead_gameplay_programmer": "Programador principal de jugabilidad",
     "credits_role.lead_technical_programmer": "Líder técnico de programación",
     "credits_role.engineers": "Ingenieros",
@@ -76,7 +76,7 @@
     "credits_role.head_producer": "Productor principal",
 
     "credits_role_group.general_arcade": "GENERAL ARCADE",
-    "credits_role.general_arcade": "Arcade general",
+    "credits_role.general_arcade": "General Arcade",
 
     "credits_role_group.contributors": "COLABORADORES",
     "credits_role.special_infected": "Infectados especiales",
@@ -90,5 +90,5 @@
 
     "credits_role_group.tools": " <SIZE:credits2> Herramientas <SIZE:medium> <LINE> <LINE> Motor de audio: FMOD Studio, de Firelight Technologies <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/FMOD_credits.png> <LINE> <LINE> <LINE> Utiliza Bink Video. Copyright (C) 1997-2026 de Epic Games Tools LLC <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/Bink_credits.png>",
 
-    "credits_role_group.in_loving_memory_of":"Dedicado con profundo amor y respeto a la memoria de <LINE> ",
+    "credits_role_group.in_loving_memory_of":"Dedicado con profundo amor y respeto a la memoria de <LINE> "
 }

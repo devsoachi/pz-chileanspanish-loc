@@ -15,7 +15,7 @@
     "UI_mainscreen_ErrorLoadingSavefile": "Error al cargar los datos guardados",
     "UI_mainscreen_SavefileNotFound": "Este archivo guardado no se puede encontrar o no es válido.",
     "UI_mainscreen_SavefileName": "Archivo guardado: %1",
-    "UI_mainscreen_coop": "HOST",
+    "UI_mainscreen_coop": "Cooperativo",
     "UI_mainscreen_version": "Versión %1",
     "UI_mainscreen_version_steam": "Versión %1 (Steam)",
     "UI_mainscreen_seed": "Semilla: %1",
