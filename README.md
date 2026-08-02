@@ -6,7 +6,7 @@ Repositorio del Español chileno alternativo de **Project Zomboid**. Este proyec
 
 ## Estado del Proyecto
 * **Idioma:** Español (Chile)
-* **Progreso de traducción:** ~99% (Sólo queda Print_Text) 
+* **Progreso de traducción:** 100% | Sólo queda revisar tareas pendientes, errores puntuales y demás
 * Build 42.20
 
 ## Trabajo hecho
